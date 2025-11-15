@@ -2,7 +2,7 @@ default g1_l = g1_l1
 default q_max = 10
 
 label game1:
-    #play music "g1.ogg"
+    play music "g1.ogg"
     scene bg g1 with pixellate
 
 
